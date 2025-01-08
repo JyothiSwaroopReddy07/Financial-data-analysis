@@ -1,5 +1,4 @@
 
-
 # **Apple Financial Data Dashboard**
 
 A responsive React application that displays Apple Inc.'s financial data with features like filtering and sorting. This application uses React Table for data handling, Framer Motion for animations, and Tailwind CSS for responsive design.
