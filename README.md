@@ -1,6 +1,4 @@
-Here’s the updated `README.md` without pagination and including details about the API key:
 
----
 
 # **Apple Financial Data Dashboard**
 
